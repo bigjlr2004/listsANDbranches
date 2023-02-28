@@ -1,0 +1,16 @@
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\bin\Debug\net5.0\list-tutorial.exe
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\bin\Debug\net5.0\list-tutorial.deps.json
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\bin\Debug\net5.0\list-tutorial.runtimeconfig.json
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\bin\Debug\net5.0\list-tutorial.runtimeconfig.dev.json
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\bin\Debug\net5.0\list-tutorial.dll
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\bin\Debug\net5.0\ref\list-tutorial.dll
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\bin\Debug\net5.0\list-tutorial.pdb
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\obj\Debug\net5.0\list-tutorial.csproj.AssemblyReference.cache
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\obj\Debug\net5.0\list-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\obj\Debug\net5.0\list-tutorial.AssemblyInfoInputs.cache
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\obj\Debug\net5.0\list-tutorial.AssemblyInfo.cs
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\obj\Debug\net5.0\list-tutorial.csproj.CoreCompileInputs.cache
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\obj\Debug\net5.0\list-tutorial.dll
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\obj\Debug\net5.0\ref\list-tutorial.dll
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\obj\Debug\net5.0\list-tutorial.pdb
+C:\Users\bigjl\workspace\csharp\intro\branches-tutorial\list-tutorial\obj\Debug\net5.0\list-tutorial.genruntimeconfig.cache

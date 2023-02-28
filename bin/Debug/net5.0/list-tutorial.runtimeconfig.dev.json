@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bigjl\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bigjl\\.nuget\\packages"
+    ]
+  }
+}
